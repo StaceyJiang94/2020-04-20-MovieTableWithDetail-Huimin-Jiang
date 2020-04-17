@@ -13,6 +13,7 @@
 		0133B7C524492ABE00396F21 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0133B7C324492ABE00396F21 /* Main.storyboard */; };
 		0133B7C724492ABF00396F21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0133B7C624492ABF00396F21 /* Assets.xcassets */; };
 		0133B7CA24492ABF00396F21 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0133B7C824492ABF00396F21 /* LaunchScreen.storyboard */; };
+		0133B7D22449354F00396F21 /* MovieDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0133B7D12449354F00396F21 /* MovieDetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0133B7C624492ABF00396F21 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0133B7C924492ABF00396F21 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0133B7CB24492ABF00396F21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0133B7D12449354F00396F21 /* MovieDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0133B7BD24492ABE00396F21 /* AppDelegate.swift */,
 				0133B7BF24492ABE00396F21 /* SceneDelegate.swift */,
 				0133B7C124492ABE00396F21 /* ViewController.swift */,
+				0133B7D12449354F00396F21 /* MovieDetailTableViewController.swift */,
 				0133B7C324492ABE00396F21 /* Main.storyboard */,
 				0133B7C624492ABF00396F21 /* Assets.xcassets */,
 				0133B7C824492ABF00396F21 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0133B7C224492ABE00396F21 /* ViewController.swift in Sources */,
+				0133B7D22449354F00396F21 /* MovieDetailTableViewController.swift in Sources */,
 				0133B7BE24492ABE00396F21 /* AppDelegate.swift in Sources */,
 				0133B7C024492ABE00396F21 /* SceneDelegate.swift in Sources */,
 			);
